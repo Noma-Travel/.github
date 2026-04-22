@@ -10,9 +10,3 @@ Noma is a corporate travel management platform powered by AI agents. It helps co
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
 
 **AI:** OpenAI LLM integration via a custom interpret/act agent loop
-
----
-
-## Getting Started
-
-See the [Installation Guide](https://github.com/Noma-Travel/.github/blob/main/ORGANIZATION_INSTALL.md) for a full walkthrough of setting up the development environment.
